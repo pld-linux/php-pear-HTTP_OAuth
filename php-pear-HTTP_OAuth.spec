@@ -1,6 +1,5 @@
 %define		status		alpha
 %define		pearname	HTTP_OAuth
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - PEAR implementation of the OAuth 1.0a specification
 Name:		php-pear-%{pearname}
 Version:	0.3.2
