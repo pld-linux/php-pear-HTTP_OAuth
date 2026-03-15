@@ -3,7 +3,7 @@
 Summary:	%{pearname} - PEAR implementation of the OAuth 1.0a specification
 Name:		php-pear-%{pearname}
 Version:	0.3.2
-Release:	1
+Release:	2
 License:	BSD License
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{pearname}-%{version}.tgz
